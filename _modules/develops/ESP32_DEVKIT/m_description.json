@@ -1,0 +1,5 @@
+{
+    "type":"arduino",
+    "toolTip":"Microcontrolador ESP32",
+    "description":"Tarjeta de microcontrolador ESP32, cuenta con conectividad Wi-Fi y Bluetooth, ofrece pines digitales, ADC, DAC y varios buses de conectividad alambrica. Es una placa amigable y fácil de usar"
+}
