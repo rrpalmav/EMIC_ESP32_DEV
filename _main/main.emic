@@ -2,4 +2,4 @@
 // ---
 EMIC:copy(inc/main.h > TARGET:inc/main.h)
 
-EMIC:copy(src/main.h > TARGET:src/main.c)
+EMIC:copy(src/main.c > TARGET:src/main.c)
